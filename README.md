@@ -16,9 +16,9 @@
             </ul>
             <h2>💡 Learning:</h2>
             <ul>
-                <li> 🍵 Data Structures & Algorithms</li>
-                <li> 🤖 Machine Learning</li>
-                <li> 🐍 Django</li>
+                <li> 🖥️ Data Structures & Algorithms</li>
+                <li> ☁️ Google Cloud</li>
+                <li> 🍵 Spring boot</li>
                 <li> ☸️ Kubernetes</li>
             </ul>
             <h2>🎯 Challenge:</h2>
